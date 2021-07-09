@@ -1,4 +1,4 @@
-- 👋 Hi, I’m @Alfonzone}
+- 👋 Hi, I’m @Alfonzone
 - :books: I’m a former Physics student and currently a Computer Science student.
 - 👀 I’m interested in Computer Science, Software Engineering, Videogames, Natural Sciences, Data Science, Philosophy, Sociology, Music, among other topics.
 - 🌱 I'm learning about the worlds of software engineering and machine learning, and in my free time I'm doing personal projects using game engines. 
